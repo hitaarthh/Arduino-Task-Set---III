@@ -19,5 +19,6 @@
 
 - Known that the electrical device controlled by PWM shows behaviour that is the result of the average of wave pulses.
 
-
+<div align="center">
 <img src="https://res.cloudinary.com/rs-designspark-live/image/upload/c_limit,w_758/f_auto/v1/article/pwm1_5b5a238f95dc10f912bb0a66419d19884fbdd5e6"  >
+</div>
