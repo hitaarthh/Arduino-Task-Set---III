@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-   <h1>Observing PWM Behaviour using Tinkercad Oscilloscope</h1>
+   <h1>Observing PWM Behaviour Using Tinkercad Oscilloscope</h1>
 </div>
 
 ### --> What is a PWM and how exactly it works!? 🤔
@@ -22,3 +22,8 @@
 <div align="center">
 <img src="https://res.cloudinary.com/rs-designspark-live/image/upload/c_limit,w_758/f_auto/v1/article/pwm1_5b5a238f95dc10f912bb0a66419d19884fbdd5e6"  >
 </div>
+
+### --> Simulation Diagram:
+
+<a href="https://www.tinkercad.com/things/6sPd7v0lE5K?sharecode=bRUlGeeJrNxdif_1R4nE3-BGLVqJF6D2BW3rW7xpatg"><img width="953" alt="Simulation diagram" src="https://user-images.githubusercontent.com/91147942/167164354-de51d842-3ecf-42fc-92b6-7d1288430020.png">
+</a>
