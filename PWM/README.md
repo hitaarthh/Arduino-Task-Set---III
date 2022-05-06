@@ -9,7 +9,7 @@
 </div>
 
 ### --> What is a PWM and how exactly it works!? 🤔
-- PWM stands for <a href="https://www.theengineeringprojects.com/2018/10/introduction-to-pwm-pulse-width-modulation.html">Pulse Width Modulation</a> which is a process to control average power supplied by the electrical signal. It is a method in which digital outputs are used to control analogue devices. This phenomenon is widely used to control inertial loads such as the speed of the motor, the brightness of the light, and the temperature of the heating elements.
+- PWM stands for <a href="https://www.theengineeringprojects.com/2018/10/introduction-to-pwm-pulse-width-modulation.html">Pulse Width Modulation</a> which is a process to control average power supplied by the electrical signal. It is a method in which digital outputs are used to control analogue devices. This phenomenon is widely used to control inertial loads such as the speed of the motor, the brightness of the light, and the temperature of the heating elements. (Arduino has 6 PWM pins)
 
 - Using PWM, the average power (in the perspective of the value of current or voltage) applied to the load is controlled by a turning switch that stands between the load and supply. PWM doesn’t offer true analogue output, it provides power in pulses, instead. This means you won’t be getting current continuously delivered to the load, you’ll receive power in on and off pulses.
 
