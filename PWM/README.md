@@ -25,5 +25,29 @@
 
 ### --> Simulation Diagram:
 
+<div align="center">
 <a href="https://www.tinkercad.com/things/6sPd7v0lE5K?sharecode=bRUlGeeJrNxdif_1R4nE3-BGLVqJF6D2BW3rW7xpatg"><img width="953" alt="Simulation diagram" src="https://user-images.githubusercontent.com/91147942/167164354-de51d842-3ecf-42fc-92b6-7d1288430020.png">
 </a>
+</div>
+
+### --> Device Used:
+
+- Arduino UNO 3
+- Breadboard
+- Oscilloscope
+- LED bulb
+- Connecting wires
+
+# --> Source Code: 
+
+```C++
+
+void setup()
+{
+  pinMode(9, OUTPUT);
+}
+void loop()
+{
+  analogWrite(9,50);//value of PWM is chosen as 50 which can be between 0-255
+}
+```
