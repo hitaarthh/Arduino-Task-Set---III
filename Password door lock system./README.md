@@ -23,31 +23,27 @@
 
 <a href="https://www.tinkercad.com/things/077OPp6fBwy-password-door-lock-system-using-4x4-keypad/editel"><img src="https://img.shields.io/badge/Simulation:-Click%20to%20Simulate -blue" height="25" ></a>
 
-
-https://user-images.githubusercontent.com/91147942/167269907-9dc3d37d-b846-4e3a-869d-770f3d4c031e.mov
-
-
 ```c++
-#include <Keypad.h>
-#include <LiquidCrystal.h>
-#include <Servo.h>
+#include <Keypad.h>        // header files to interface keypad along with arduino.
+#include <LiquidCrystal.h> // header files to interface LCD display along with arduino.
+#include <Servo.h>         // header files to interface the servo motor along with the arduino.
 
-#define Password_Length 5
+#define Password_Length 5 // initialising a variable Password_length and giving it a constant value of 5.
 
 Servo myservo;
 LiquidCrystal lcd(A0, A1, A2, A3, A4, A5);
 
 int pos = 0;
 
-char Data[Password_Length];
-char Master[Password_Length] = "1234";
+char Data[Password_Length]; // initialising a one-dimensional character array of length of the password.
+char Master[Password_Length] = "1234"; // Storing the defauly password 1234.
 byte data_count = 0, master_count = 0;
 
 bool Pass_is_good;
 bool door = false;
 char customKey;
 
-/*---preparing keypad---*/
+/*---Initialising Keypad---*/
 
 const byte ROWS = 4;
 const byte COLS = 4;
@@ -62,7 +58,7 @@ byte colPins[COLS] = {4, 5, 6, 7};
 
 Keypad customKeypad(makeKeymap(keys), rowPins, colPins, ROWS, COLS);
 
-/*--- Main Action ---*/
+/*--- Setting Up the Arduino ---*/
 void setup()
 {
     myservo.attach(9, 2000, 2400);
