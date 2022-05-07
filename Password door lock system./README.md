@@ -21,7 +21,7 @@
 - Breadboard
 - Connecting Wires
 
-<a href="https://www.tinkercad.com/things/077OPp6fBwy-password-door-lock-system-using-4x4-keypad/editel"><img src="https://img.shields.io/badge/Simulation:-Click%20to%20Simulate -blue" ></a>
+<a href="https://www.tinkercad.com/things/077OPp6fBwy-password-door-lock-system-using-4x4-keypad/editel"><img src="https://img.shields.io/badge/Simulation:-Click%20to%20Simulate -blue" height="25" ></a>
 
 
 https://user-images.githubusercontent.com/91147942/167269907-9dc3d37d-b846-4e3a-869d-770f3d4c031e.mov
