@@ -11,5 +11,5 @@
 ## List of Projects:
 
 - [Observing PWM behaviour using tinkercad oscilloscope.](https://github.com/hitaarthh/Arduino-Task-Set---III/tree/main/PWM)
-- Password door lock system (using 4x4 keypad)
+- [Password door lock system (using 4x4 keypad)](https://github.com/hitaarthh/Arduino-Task-Set---III/tree/main/Password%20door%20lock%20system.)
 
