@@ -23,8 +23,9 @@
 
 ### --> Simulation Diagram: 
 
+<div align="center">
 <img width="584" alt="Simulation diagram" src="https://user-images.githubusercontent.com/91147942/167268539-6e9c3b53-37d9-44d8-8c6b-d153ff67169a.png">
-
+</div>
 - 
 
 
