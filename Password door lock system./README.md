@@ -23,10 +23,19 @@
 
 ### --> Simulation Diagram: 
 
-<div align="center">
-<img width="584" alt="Simulation diagram" src="https://user-images.githubusercontent.com/91147942/167268539-6e9c3b53-37d9-44d8-8c6b-d153ff67169a.png">
+<div align="left">
+<img width="764" alt="Simulation diagram" src="https://user-images.githubusercontent.com/91147942/167268539-6e9c3b53-37d9-44d8-8c6b-d153ff67169a.png">
 </div>
-- 
+
+
+
+
+
+   
+   
+
+
+https://user-images.githubusercontent.com/91147942/167269907-9dc3d37d-b846-4e3a-869d-770f3d4c031e.mov
 
 
 
