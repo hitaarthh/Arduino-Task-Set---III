@@ -21,6 +21,10 @@
 - Breadboard
 - Connecting Wires
 
+### --> Simulation:
+
+https://user-images.githubusercontent.com/91147942/167282729-d9754e37-2a38-4c1a-8070-6ad3493dba0d.mov
+
 <a href="https://www.tinkercad.com/things/077OPp6fBwy-password-door-lock-system-using-4x4-keypad/editel"><img src="https://img.shields.io/badge/Simulation:-Click%20to%20Simulate -blue" height="25" ></a>
 
 ```c++
@@ -144,7 +148,7 @@ void Open()
 
     if (data_count == Password_Length - 1) // this would check the pass-keu if the entered pass length is same to that of the default-pass.
     {
-        if (!strcmp(Data, Master)) //this built function basically checks the each character of default and entered password, and returns either 0 or 1.
+        if (!strcmp(Data, Master))        // this built function basically checks the each character of default and entered password, and returns either 0 or 1.
         {
             lcd.clear();
             ServoOpen();
